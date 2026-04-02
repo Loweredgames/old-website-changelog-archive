@@ -4,7 +4,23 @@ window.changelogList = [
 
 // Post Vecchi Rilasciati
     {
-        title: 'Life of Villager: BUILDING:25.02.2021a',
+        title: 'Apocalisse:BUILDING:26.02.2021a',
+        date: '26.02.2021',
+        image: 'images/posts/Apocalisse/dev0.png',
+        file: 'Apocalisse/dev0.md',
+        tags: ['building'],
+        visible: true
+    },
+    {
+        title: 'Skyblock Classic Edition:BUILDING:25.02.2021a',
+        date: '25.02.2021',
+        image: 'images/old/old_cobblestone.png',
+        file: 'Voidblock/old-changelog/old_dev0.md',
+        tags: ['old-building'],
+        visible: true
+    },
+    {
+        title: 'Life of Villager:BUILDING:25.02.2021a',
         date: '25.02.2021',
         image: 'images/old/old_cobblestone.png',
         file: 'Life of Villager/old_dev0.md',

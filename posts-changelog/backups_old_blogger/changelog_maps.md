@@ -5672,37 +5672,6 @@ BUILDING: They are development version and can be unstable, use it at your risk.
 - 
 [Download Dimensions](https://github.com/Loweredgames/Skyblock-Classic-Edition/releases/download/1.20.5_JE-8a/Skyblock.Classic.Edition.Dimensions.Version.Template.zip)
 
-
-
----
-
-## Skyblock Classic edition: BUILDING:25.02.2021a
-
-**Pubblicato:** 2021-02-25  
-**Aggiornato:** 2021-09-05  
-**Tag:** OLD-CHANGELOG, DOWNLOAD, JE  
-**Stato:** LIVE  
-
-
-[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfFsbM4C3IvOZplgPhihWqQ_HAP_wwe2IvnjUqZl15zP0joltsQwaqY8JO5QgskBwc0owIgTuYx6hAQ9alOTdI8ei14NSmEL_nADYUcSTs7nYSoidLGAF20yKAcV1NrcfuP6qcFXoGKkyO/s300/icon.png)
-- 
-prima versione pubblicata 
-
-- 
-aggiunto sito (potrete trovare tutte le modifiche nel sito)
-
-- 
-[scarica il vecchi Changelog](https://github.com/Loweredgames/Minecraft-Map-Building-Versions/releases/download/Skyblock-Classic-edition-0a/Changelog.old.docx)
-
-BUILDINGS are development versions and may be incomplete.
-[Bug Reporter](https://github.com/Loweredgames/Minecraft-Map-Building-Versions)
-.
-[Download](https://github.com/Loweredgames/Minecraft-Map-Building-Versions/releases/download/Skyblock-Classic-edition-0a/Skyblock.Classic.edition.zip)
-
-
-
----
-
 ## JE-1.17-Redstonecraft:BUILDING:28.03.2022a
 
 **Pubblicato:** 2022-04-29  
@@ -13439,43 +13408,6 @@ risolto un problema di spam 
 
 BUILDINGS are development versions and may be incomplete.
 [Download](https://github.com/Loweredgames/Skyblock-Classic-Edition/releases/download/JE-21a/Skyblock_Classic_Edition.zip)
-
-
-
----
-
-## apocalisse:BUILDING:26.02.2021a
-
-**Pubblicato:** 2021-02-26  
-**Aggiornato:** 2024-10-20  
-**Tag:** BUILDING, DOWNLOAD, JE  
-**Stato:** LIVE  
-
-
-[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLZEb7o5AmzTDYAyw97sC7no-1APplVR9GPWBNejpsfjB5_XZVJVrHYRmtbyIg0LzuLjoX4FeW_XgApqvgDxRDEpVvTb7mMDCQ2J68kwRUtBO3wbHTGarBB5n7H89to537WWTAZPZ6Pany/s1920/2021-02-26_16.09.47.png)
-Added
-worlds and maps:
-- 
- 
-continue aggiunte nelle zone (piccole modifiche) 
-
-Changed
-textures:
-- 
-cambiata l'icona del mondo
-
-worlds and maps:
-- 
-miglioramenti e piccole correzioni
-
-BUILDINGS are development versions and may be incomplete.
-[Bug Reporter](https://github.com/Loweredgames/Minecraft-Map-Building-Versions)
-.
-[Download](https://github.com/Loweredgames/Minecraft-Map-Building-Versions/releases/download/apocalisse-1a/apocalisse.zip)
-
-
-
----
 
 ## JE-1.19-Skyblock_Classic_Edition:3.1.3
 
