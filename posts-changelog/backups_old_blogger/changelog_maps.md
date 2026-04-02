@@ -13696,35 +13696,6 @@ BUILDINGS are development versions and may be incomplete.
 [Download](https://github.com/Loweredgames/Skyblock-Classic-Edition/releases/download/JE-31a/Skyblock.Classic.Edition.zip)
 
 
-
----
-
-## Life of Villager: BUILDING:25.02.2021a
-
-**Pubblicato:** 2021-02-25  
-**Aggiornato:** 2021-09-05  
-**Tag:** OLD-CHANGELOG, DOWNLOAD, JE  
-**Stato:** LIVE  
-
-
-[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5RtWu9y1U-KgjOHZYFyfXpYUI_X2ww5yGIj_NWAv7y4FRuD7B5VrvwGLpepDdASmYcCyBI2No81WijXC7whiMob6XtkmeG8JiCrwfvqcJFHtx3P39u9pwVRwSrYzKAWLm5_J0aaEDvfXx/s300/icon.png)
-- 
-first version published
-
-- 
-added site (you can find all the changes in the site)
-
-[download the old Changelog](https://github.com/Loweredgames/Minecraft-Map-Building-Versions/releases/download/Life-of-Villager-0a/Changelog_old.docx)
-BUILDINGS are development versions and may be incomplete.
- 
-[Bug Reporter](https://github.com/Loweredgames/Minecraft-Map-Building-Versions)
-.
-[Download ](https://github.com/Loweredgames/Minecraft-Map-Building-Versions/releases/download/Life-of-Villager-0a/Life.of.Villager.zip)
-
-
-
----
-
 ## Migrazione al Nuovo Sito Web
 
 **Pubblicato:** 2025-03-24  

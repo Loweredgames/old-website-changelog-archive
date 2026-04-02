@@ -4,19 +4,19 @@ window.changelogList = [
 
 // Post Vecchi Rilasciati
     {
-        title: 'Draft',
-        date: '???',
-        image: 'images/drafts/draft.png',
-        file: 'draft.md',
-        tags: ['drafts'],
+        title: 'Life of Villager: BUILDING:25.02.2021a',
+        date: '25.02.2021',
+        image: 'images/old/old_cobblestone.png',
+        file: 'Life of Villager/old_dev0.md',
+        tags: ['old-building'],
         visible: true
     },
 
 // Changelog Template
     {   
-        title: 'Draft',
+        title: 'Template (DA RIMUOVERE)',
         date: '03.10.2000', // Formato data
-        image: 'images/posts/changelog.png',  // URL immagine
+        image: 'images/old/old_cobblestone.png',  // URL immagine
         file: 'changelog-template.md', // Nome del file markdown
         tags: ['lts','stable','maintenance','release-candidate','pre-release','building','website','minecraft-news','changelog-doc','drafts'], // Aggiunti i tag
         visible: true,

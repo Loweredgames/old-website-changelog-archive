@@ -33,7 +33,7 @@ body::before {
     filter: blur(3px) brightness(0.7);
     z-index: -1;
 
-    /* Immagine di sfondo, basta cambiare url */
+    /* Immagine di sfondo */
     background-image: url('images/background/old.png');
 }
 
@@ -440,6 +440,10 @@ main {
 
 .tag.pre-release {
     background: #95a5a6; /* Tag per le Pre-Release */
+}
+
+.tag.old-building {
+    background: #964545; /* Tag per le Building */
 }
 
 .tag.building {
