@@ -1971,7 +1971,7 @@ head.appendChild(script);
       <b:widget-setting name='text-0'>Videogames</b:widget-setting>
       <b:widget-setting name='link-2'>https://www.curseforge.com/members/lorenzoxxxx/projects</b:widget-setting>
       <b:widget-setting name='text-3'>Planetminecraft</b:widget-setting>
-      <b:widget-setting name='link-0'>https://uberrex-studio-changelog.blogspot.com/</b:widget-setting>
+      <b:widget-setting name='link-0'></b:widget-setting>
       <b:widget-setting name='text-2'>Curseforge</b:widget-setting>
       <b:widget-setting name='text-4'>Prototype Maps</b:widget-setting>
     </b:widget-settings>
